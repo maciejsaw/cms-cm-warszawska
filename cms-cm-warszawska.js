@@ -22,7 +22,7 @@ var cmsTexts = {
   "Specjalista medycy rodzinnej, specjalista chorób wewnętrznych (internista), lekarz pediatra - wizyty prywatne",
   
   aktualnoscPierwszaData: 
-  "Czwartek, 14 lutego 2018",
+  "Czwartek, 15 lutego 2018",
   
   aktualnoscPierwszaTekst: 
   "Prosimy o rejestrację telefoniczną",
