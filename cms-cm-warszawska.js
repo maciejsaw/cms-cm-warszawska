@@ -124,82 +124,93 @@ var cmsTexts = {
   "70 zł",
   
   usgCennik__wiersz2__tytul:
-  "",
+  "USG tarczycy",
   
   usgCennik__wiersz2__cena:
-  "",
+  "60 zł",
   
   usgCennik__wiersz3__tytul:
-  "",
+  "USG piersi ",
   
   usgCennik__wiersz3__cena:
-  "",
+  "80 zł",
   
   usgCennik__wiersz4__tytul:
-  "",
+  "USG układu moczowego",
   
   usgCennik__wiersz4__cena:
-  "",
+  "70 zł",
   
   usgCennik__wiersz5__tytul:
-  "",
+  "USG brzucha z oceną gruczołu krokowego",
   
   usgCennik__wiersz5__cena:
-  "",
+  "80 zł",
   
   usgCennik__wiersz6__tytul:
-  "",
+  "USG gruczołu krokowego",
   
   usgCennik__wiersz6__cena:
-  "",
+  "60 zł",
   
   usgCennik__wiersz7__tytul:
-  "",
+  "USG węzłów chłonnych",
   
   usgCennik__wiersz7__cena:
-  "",
+  "60 zł",
   
   usgCennik__wiersz8__tytul:
-  "",
+  "USG ślinianek",
   
   usgCennik__wiersz8__cena:
-  "",
+  "60 zł",
   
   usgCennik__wiersz9__tytul:
-  "",
+  "USG tkanek miękkich",
   
   usgCennik__wiersz9__cena:
-  "",
+  "60 zł",
   
   usgCennik__wiersz10__tytul:
-  "",
+  "USG Doppler aorty i tętnic biodrowych",
+  
+  usgCennik__wiersz10__cena:
+  "120 zł",
+  
+  usgCennik__wiersz11__tytuł:
+  "USG Doppler żył lub tętnic kończyn dolnych",
   
   usgCennik__wiersz11__cena:
-  "",
+  "-",
   
   usgCennik__wiersz12__tytul:
-  "",
+  "– obie kończyny dolne",
   
   usgCennik__wiersz12__cena:
-  "",
+  "110 zł",
   
   usgCennik__wiersz13__tytul:
-  "",
+  "– jedna kończyna dolna",
   
   usgCennik__wiersz13__cena:
-  "",
+  "80 zł",
   
   usgCennik__wiersz14__tytul:
-  "",
+  "USG Doppler tętnic szyjnych i kręgowych",
   
   usgCennik__wiersz14__cena:
-  "",
+  "90 zł",
   
   usgCennik__wiersz15__tytul:
-  "",
+  "USG Doppler tętnic nerkowych",
   
   usgCennik__wiersz15__cena:
-  "",  
+  "140 zł",  
   
+  usgCennik__wiersz16__tytul:
+  "",
+  
+  usgCennik__wiersz16__cena:
+  "",  
   
 }
