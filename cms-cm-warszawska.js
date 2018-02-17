@@ -87,11 +87,17 @@ var cmsTexts = {
   usgLekarz1__opis:
   "X", //"Badania niemowląt, dzieci i dorosłych",
   
+  usgLekarz1__godziny:
+  "",
+  
   usgLekarz2__imie:
   "X", //"Lek. med. Monika Plona-Herbst",
   
   usgLekarz2__opis:
   "X", //"Badania niemowląt, dzieci i dorosłych",
+  
+  usgLekarz2__godziny:
+  "",
   
   usgLekarz3__imie:
   "X", //"Lek. med. Julia Rutkowska",
@@ -99,10 +105,16 @@ var cmsTexts = {
   usgLekarz3__opis:
   "X", //"Specjalista radiologii i diagnostyki obrazowej. Badania dzieci i dorosłych",
   
+  usgLekarz3__godziny:
+  "",
+  
   usgLekarz4__imie:
   "",
   
   usgLekarz4__opis:
+  "",
+  
+  usgLekarz4__godziny:
   "",
   
   usgCennik__wiersz1__tytul:
