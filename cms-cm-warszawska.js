@@ -177,7 +177,7 @@ var cmsTexts = {
   usgCennik__wiersz10__cena:
   "120 zł",
   
-  usgCennik__wiersz11__tytuł:
+  usgCennik__wiersz11__tytul:
   "USG Doppler żył lub tętnic kończyn dolnych",
   
   usgCennik__wiersz11__cena:
