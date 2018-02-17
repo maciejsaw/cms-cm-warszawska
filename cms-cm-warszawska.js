@@ -73,7 +73,7 @@ var cmsTexts = {
   "X", //"mgr położna Katarzyna Kitlasz - Baczyńska",
   
   rodzinnaLekarz8:
-  "",
+  "X",
   
   rodzinnaLekarz9:
   "",
